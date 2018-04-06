@@ -35,7 +35,7 @@
 >引用字体用一个>标识，但是他换行怎么解决呢？<br/>
 >这个没有换行呀？
 
-超级链接用[ ] ()标识，[我的博客](www.zhezheng.net)
+超级链接用[ ] ()标识，[我的博客](http://www.zhezheng.net)
 
 This is an [example link](http://example.com/ "With a Title").
 
